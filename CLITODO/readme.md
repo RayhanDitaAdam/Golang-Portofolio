@@ -210,7 +210,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: your.email@example.com
+- 📧 Email: rayhan.dita45@smk.belajar.id
 - 🐛 Issues: [GitHub Issues](https://github.com/yourusername/todo-cli/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/todo-cli/discussions)
 
