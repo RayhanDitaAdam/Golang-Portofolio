@@ -140,7 +140,7 @@ This is my personal learning portfolio, but I welcome:
 
 - 📧 **Email:** rayhan.dita45@smk.belajar.id
 - 💼 **LinkedIn:** www.linkedin.com/in/rayhan-dita-adam-riski-572b32355
-- 🐱 **GitHub:** [@yourusername](https://github.com/RayhanDitaAdam)
+- 🐱 **GitHub:** [@RayhanDitaAdam](https://github.com/RayhanDitaAdam)
 
 ## 📄 License
 
