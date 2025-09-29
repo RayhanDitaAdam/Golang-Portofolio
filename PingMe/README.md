@@ -39,7 +39,7 @@ Pastikan Anda telah menginstall:
 
 1. **Clone repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/rayhanditaadam/goalng-portofolio
 cd PingMe
 ```
 
